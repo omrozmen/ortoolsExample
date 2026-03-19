@@ -1,0 +1,28 @@
+Mesafe Matrisi:
+0.00	28.00	65.00	7.00	65.00	28.00	76.00	79.00	109.00	105.00	
+28.00	0.00	44.00	22.00	38.00	10.00	53.00	55.00	81.00	76.00	
+65.00	44.00	0.00	62.00	47.00	53.00	10.00	71.00	65.00	57.00	
+7.00	22.00	62.00	0.00	58.00	20.00	72.00	72.00	102.00	98.00	
+65.00	38.00	47.00	58.00	0.00	39.00	50.00	24.00	45.00	44.00	
+28.00	10.00	53.00	20.00	39.00	0.00	62.00	52.00	83.00	80.00	
+76.00	53.00	10.00	72.00	50.00	62.00	0.00	73.00	60.00	51.00	
+79.00	55.00	71.00	72.00	24.00	52.00	73.00	0.00	49.00	52.00	
+109.00	81.00	65.00	102.00	45.00	83.00	60.00	49.00	0.00	10.00	
+105.00	76.00	57.00	98.00	44.00	80.00	51.00	52.00	10.00	0.00	
+
+Seçilen Turlar, Nokta Sayıları, Noktalar ve Toplam Mesafeler:
+Tur 1: Nokta Sayısı = 6, Toplam Mesafe = 359.00
+Noktalar: 5 (Başlangıç) 10 (44.00 birim, Toplam 44.00 birim) 7 (51.00 birim, Toplam 95.00 birim) 8 (73.00 birim, Toplam 168.00 birim) 1 (79.00 birim, Toplam 247.00 birim) 3 (65.00 birim, Toplam 312.00 birim) 
+
+Tur 2: Nokta Sayısı = 6, Toplam Mesafe = 361.00
+Noktalar: 9 (Başlangıç) 2 (81.00 birim, Toplam 81.00 birim) 5 (38.00 birim, Toplam 119.00 birim) 8 (24.00 birim, Toplam 143.00 birim) 7 (73.00 birim, Toplam 216.00 birim) 6 (62.00 birim, Toplam 278.00 birim) 
+
+Tur 3: Nokta Sayısı = 8, Toplam Mesafe = 535.00
+Noktalar: 9 (Başlangıç) 4 (102.00 birim, Toplam 102.00 birim) 3 (62.00 birim, Toplam 164.00 birim) 1 (65.00 birim, Toplam 229.00 birim) 7 (76.00 birim, Toplam 305.00 birim) 2 (53.00 birim, Toplam 358.00 birim) 10 (76.00 birim, Toplam 434.00 birim) 8 (52.00 birim, Toplam 486.00 birim) 
+
+Tur 4: Nokta Sayısı = 6, Toplam Mesafe = 329.00
+Noktalar: 4 (Başlangıç) 1 (7.00 birim, Toplam 7.00 birim) 3 (65.00 birim, Toplam 72.00 birim) 7 (10.00 birim, Toplam 82.00 birim) 6 (62.00 birim, Toplam 144.00 birim) 9 (83.00 birim, Toplam 227.00 birim) 
+
+Tur 5: Nokta Sayısı = 6, Toplam Mesafe = 322.00
+Noktalar: 5 (Başlangıç) 8 (24.00 birim, Toplam 24.00 birim) 10 (52.00 birim, Toplam 76.00 birim) 4 (98.00 birim, Toplam 174.00 birim) 2 (22.00 birim, Toplam 196.00 birim) 9 (81.00 birim, Toplam 277.00 birim) 
+
