@@ -1,7 +1,6 @@
 from pulp import *
 import os 
 import os
-os.chdir("./ortoolsExamples/Kisit Programlama")
 
 
 

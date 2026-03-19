@@ -1,7 +1,6 @@
 from gurobipy import Model, GRB, quicksum
 import os 
 import os
-os.chdir("./ortoolsExamples/gurobi")
 
 
 

@@ -1,6 +1,5 @@
 from ortools.linear_solver import pywraplp
 import os 
-os.chdir("./ortoolsExamples")
 
 
 # Model oluşturma

@@ -76,8 +76,6 @@ def OrtoolsSolver(points):
         fromNode = manager.IndexToNode(fromIndex)
 import os 
 import os
-os.chdir("./ortoolsExamples/Kisit Programlama")
-os.chdir("./ortoolsExamples")
 
         toNode = manager.IndexToNode(toIndex)
         return data['distance_matrix'][fromNode][toNode]

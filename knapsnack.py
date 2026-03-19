@@ -1,6 +1,5 @@
 from ortools.algorithms.python import knapsack_solver
 import os 
-os.chdir("./ortoolsExamples")
 
 
 

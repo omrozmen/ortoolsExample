@@ -4,7 +4,6 @@ import random
 import pandas as pd
 import os 
 import os
-os.chdir("./ortoolsExamples/Kisit Programlama")
 
 
 

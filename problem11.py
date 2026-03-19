@@ -1,6 +1,5 @@
 from ortools.linear_solver import pywraplp
 import os 
-os.chdir("./ortoolsExamples")
 
 # Kümeler
 trucks = [1, 2, 3, 4]

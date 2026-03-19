@@ -1,6 +1,5 @@
 from ortools.linear_solver import pywraplp
 import os 
-os.chdir("./ortoolsExamples")
 
 
 # OR-Tools solver'ı oluştur

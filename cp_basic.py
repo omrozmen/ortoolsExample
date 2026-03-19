@@ -17,7 +17,6 @@
 
 from ortools.sat.python import cp_model
 import os 
-os.chdir("./ortoolsExamples")
 
 
 

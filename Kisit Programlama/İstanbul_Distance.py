@@ -3,7 +3,6 @@ import pandas as pd
 from geopy.distance import geodesic
 import os 
 import os
-os.chdir("./ortoolsExamples/Kisit Programlama")
 
 
 

@@ -1,6 +1,5 @@
 from itertools import permutations
 import os 
-os.chdir("./ortoolsExamples")
 
 
 # Harfler ve rakamlar
